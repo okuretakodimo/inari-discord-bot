@@ -5,12 +5,12 @@
 --- 
 ## What is Inari?
 
-Inari is a Discord.js moderation bot, made to do basic tasks in a server. It's features include NSFW (WIP), Fun (WIP), Moderation, and Music (WIP).. Yes, everything is WIP so far. except for Moderation (That's good I think)
+Inari is a Discord.js moderation bot, made to do basic tasks in a server. It's features include Fun (WIP), Moderation, and Information commands.
 
 --- 
 ### Backstory
 
-*Supposed* to be a secondary bot, but priorities switched due to me being an idiot ¯\_(ツ)_/¯
+Originally started working on the bot only for my server but I decided to make it public and utilize it for public use.
 
 ---
 ## Commands
@@ -19,20 +19,6 @@ Here are some of Inari's commands.
 
 ---
 
-### `Music` commands (coming soon)
-
-|Command |               Description              |         Usage         |
-|--------|----------------------------------------|-----------------------|
-| Play   | Plays a song via URL or query          |play <song_name or url>|
-| Stop   | Stops the bot from playing music       |stop                   |
-| Now    | Shows the currently playing song       |now                    |
-| Loop	 | Loops the current song                 |loop                   |
-| Remove | Removes a song from the queue          |remove <song>          |
-| Join	 | Joins the same music channel you're in |join                   |
-| Queue	 | Searches up the current music queue    |queue                  |
-| Skip   | Skips a song                           |skip                   | 
-
----
 
 ### `Misc` commands
 
@@ -73,10 +59,10 @@ Inari' prefix is yip!
 
 ### Other Info
 
-[Invite](https://discord.com/oauth2/authorize?client_id=759218208535609395&permissions=8&scope=bot)
+[Invite](https://discord.com/oauth2/authorize?client_id=833420827876786196&permissions=8&scope=bot)
 
-[Discord](https://discord.gg/rWQfeYF)
+[Discord](https://discord.gg/Zx46ctjYFJ)
 
-Developers: `midnightinwinter#0017`
+Developer: `midnightinwinter#0017`
 
 ---
